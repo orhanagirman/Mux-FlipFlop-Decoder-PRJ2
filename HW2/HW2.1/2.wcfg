@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/TUTEL-50/Desktop/HW/hw2.1/test2_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="test2" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/test2/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/i0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">i0</obj_property>
+      <obj_property name="ObjectShortName">i0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/i1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">i1</obj_property>
+      <obj_property name="ObjectShortName">i1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/i2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">i2</obj_property>
+      <obj_property name="ObjectShortName">i2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/i3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">i3</obj_property>
+      <obj_property name="ObjectShortName">i3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/s0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">s0</obj_property>
+      <obj_property name="ObjectShortName">s0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/s00" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">s00</obj_property>
+      <obj_property name="ObjectShortName">s00</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/s1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">s1</obj_property>
+      <obj_property name="ObjectShortName">s1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test2/op" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">op</obj_property>
+      <obj_property name="ObjectShortName">op</obj_property>
+   </wvobject>
+</wave_config>

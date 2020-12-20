@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/TUTEL-50/Desktop/HW/hw2.3/test1_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="test1" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/test1/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/x" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">x</obj_property>
+      <obj_property name="ObjectShortName">x</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/out1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">out1</obj_property>
+      <obj_property name="ObjectShortName">out1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/out2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">out2</obj_property>
+      <obj_property name="ObjectShortName">out2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/clock_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clock_period</obj_property>
+      <obj_property name="ObjectShortName">clock_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/araport1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">araport1</obj_property>
+      <obj_property name="ObjectShortName">araport1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/araport2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">araport2</obj_property>
+      <obj_property name="ObjectShortName">araport2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/araport3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">araport3</obj_property>
+      <obj_property name="ObjectShortName">araport3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/wire1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">wire1</obj_property>
+      <obj_property name="ObjectShortName">wire1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test1/uut/wire2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">wire2</obj_property>
+      <obj_property name="ObjectShortName">wire2</obj_property>
+   </wvobject>
+</wave_config>
